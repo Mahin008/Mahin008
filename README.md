@@ -58,14 +58,6 @@
 </p>
 ---
 
-### 🐍 Contribution Snake
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mahin008/Mahin008/output/snake.svg" alt="Snake animation" />
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
