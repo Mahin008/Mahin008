@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **Mobile App Development & Competitive Programming**
 - 🌱 I’m exploring **Advanced Data Structures, Algorithms & Scalable App Development**
 - 💡 I love solving problems and building impactful mobile applications  
-- ⚡ Fun fact: *I debug faster with music 🎧*
+
 
 ---
 
